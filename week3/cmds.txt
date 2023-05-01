@@ -1,0 +1,18 @@
+1. first, open a terminal or command prompt window on your computer 
+2. install the angular cl (command line interface) by typing the following command
+
+---> npm install -g @angular/cli
+
+this will install the angular cli globally on your system. the flag til into install the package globally
+
+3. once the installation is complete, you can create a r angular project by typing the following command
+
+---->   new my-angular-app
+
+this will create a new aunguar project in a folder called my gar-www
+ 4. navigate into the project folder by typing the following command
+
+---> cd my-angular-app 
+-->ng serve
+
+
